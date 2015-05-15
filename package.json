@@ -1,0 +1,24 @@
+{
+  "name": "PeopleQuality",
+  "version": "1.0.0",
+  "description": "Web application to control human resources and keep notes about them",
+  "main": "index.js",
+  "scripts": {
+    "test": "test"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git@github.com:ZSnake/PeopleQuality.git"
+  },
+  "keywords": [
+    "RRHH",
+    "human",
+    "resources"
+  ],
+  "author": "Viktor Zavala",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/ZSnake/PeopleQuality/issues"
+  },
+  "homepage": "https://github.com/ZSnake/PeopleQuality"
+}
