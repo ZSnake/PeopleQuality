@@ -20,5 +20,8 @@
   "bugs": {
     "url": "https://github.com/ZSnake/PeopleQuality/issues"
   },
-  "homepage": "https://github.com/ZSnake/PeopleQuality"
+  "homepage": "https://github.com/ZSnake/PeopleQuality",
+  "dependencies": {
+    "hapi": "^8.4.0"
+  }
 }
