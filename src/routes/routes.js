@@ -1,4 +1,5 @@
-var usersController = require('D:/PeopleQuality/src/controllers/usersController');
+var usersController = require('../controllers/usersController.js');
+
 
 exports.register = function(server, options, next) {
 	server.route([	

@@ -6,7 +6,7 @@ mongoose.connect('mongodb://localhost/PeopleQuality');
 var server = new Hapi.Server();
 server.connection({ 
     host: 'localhost', 
-    port: 8000 
+    port: 3000 
 });
 
 //routes and shit
